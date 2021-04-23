@@ -1,4 +1,6 @@
 # Image-to-Text-Converter
-run `pip install -r requirements.txt`
+run `pip install -r requirements.txt` in terminal
 ***
-Extract all the text from an Image using Python programming
+Run the program and add photo path
+***
+Extract all the text from an Image. Enjoy!
